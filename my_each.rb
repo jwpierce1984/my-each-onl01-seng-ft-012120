@@ -1,3 +1,3 @@
 def my_each (array)
-  # code here
+  array.each {|i| puts i}
 end
