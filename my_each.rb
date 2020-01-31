@@ -1,3 +1,4 @@
-def my_each (array)
-  array.each {|i| puts i}
+def my_each (collection)
+  i = 0
+  
 end
